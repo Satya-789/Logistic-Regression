@@ -114,18 +114,6 @@ Steps followed:
 
 ![Confusion Matrix](images/confusion_matrix.png)
 
-### 📈 ROC Curve
-
-![ROC Curve](images/roc_curve.png)
-
-The model was evaluated using:
-
-* **Accuracy Score** – Overall prediction correctness
-* **Confusion Matrix** – TP, TN, FP, FN analysis
-* **Classification Report** – Precision, Recall, F1-score
-* **ROC Curve & AUC Score** – Classification performance
-
----
 
 ## 🔚 Conclusion
 
