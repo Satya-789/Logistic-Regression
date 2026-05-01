@@ -123,19 +123,4 @@ Steps followed:
 * Age and income significantly influence ad click behavior
 * Logistic Regression provides a strong baseline model
 
-### 🚀 Future Improvements:
-
-* Try advanced models (Random Forest, XGBoost)
-* Perform feature engineering
-* Optimize hyperparameters further
-* Deploy model as a web application
-
----
-
-## 🔗 GitHub Repository
-
-👉 Add your project link here
-
----
-
 ⭐ If you found this project helpful, consider giving it a star!
